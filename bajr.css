@@ -1,0 +1,39 @@
+.imag1 {
+    background-image: url('https://images.unsplash.com/photo-1528465424850-54d22f092f9d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8c2t5JTIwYmFja2dyb3VuZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60');
+    background-size: cover;
+    height: 39vh;
+}
+.first{
+    color: violet;
+    text-align: center;
+    padding-top: 50px;
+    
+    text-decoration: underline;
+}
+.second{
+    background-color: lightgreen;
+    height: 100vh;
+}
+.imger{
+    height:80px;
+    width:80px;
+    
+}
+.cardlayout{
+    background-color: white;
+    width: 120px;
+    border-radius: 15px;
+    padding: 8px;
+    height: 150px;
+    text-align:center;
+    margin: 30px;
+}
+.third{
+    font-size: 19px;
+}
+.forth{
+    font-weight: bold;
+}
+.rg{
+    text-align: center;
+}
